@@ -1,2 +1,1 @@
-# Hexamood
-repository for capstone project
+# Hapi.js + MySQL Backend API
